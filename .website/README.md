@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - casual
 directors_cut: https://dilpleu-games.itch.io/wash-the-cat
 video: https://youtu.be/GsF1nQEg3Oc
 post: https://homerdilpleu.github.io/articles/postmortem-wash-the-cat.html
